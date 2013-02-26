@@ -1,0 +1,3 @@
+I have adapted the email composer to accept an additional argument called "createFileContents", 
+which would be paired with a value of an array of strings.  Each string is attached to the email
+as its own file.
